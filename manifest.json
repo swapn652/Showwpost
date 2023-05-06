@@ -1,0 +1,12 @@
+{
+    "name": "Showwpost",
+    "description": "A browser extension that let's you post the current open tab to Showwcase",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
