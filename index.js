@@ -22,7 +22,7 @@ getCurrentUrl()
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
-                        'x-api-key': 'bd50a8beaa334573def7c4840da2c677d010bbae517238bdf4'
+                        'x-api-key': 'YOUR API_KEY' //Put your api key here
                     },
                     body: JSON.stringify({
                         title: title,
